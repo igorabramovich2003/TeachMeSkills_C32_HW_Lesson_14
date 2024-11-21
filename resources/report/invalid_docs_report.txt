@@ -1,0 +1,6 @@
+docnum1a2b3c4d@ - Incorrect characters
+docnum1a2b3c4d5e - Incorrect document number length
+contract1a2b3c$ - Incorrect characters
+contract1a2b3c4d - Incorrect document number length
+test1a2b3c4d5ef - Incorrect sequence of characters at the beginning of the document number
+test1a2b3c4d5ef6 - Incorrect document number length

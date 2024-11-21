@@ -1,0 +1,8 @@
+docnum1a2b3c4d5
+docnum1a2b3c4d@
+docnum1a2b3c4d5e
+contract1a2b3c4
+contract1a2b3c$
+contract1a2b3c4d
+test1a2b3c4d5ef
+test1a2b3c4d5ef6
